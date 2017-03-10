@@ -1,0 +1,39 @@
+h1 {
+	color: #fff;
+	text-align: center;
+}
+
+.hello {
+
+background-color: #43f;
+width: 100px;
+height: 100px;
+display: inline-block;
+
+}
+
+div:hover {
+	border-radius: 5px;
+}
+
+#random {
+	border: 5px solid #f4f;
+	display: inline-block;
+}
+
+#123 {
+	border: 2px solid #f1f;
+}
+
+#kosti {
+	display: inline-block;
+	border: 3px solid #2400ff;
+	width: 250px;
+	height: 100px;
+	background: #333;
+	color: #fff;
+	border-radius: 5px;
+	text-align: center;
+	padding: 5px;
+
+}
